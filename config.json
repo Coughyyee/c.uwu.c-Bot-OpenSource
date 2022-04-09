@@ -1,0 +1,7 @@
+{
+    "token": "<TOKEN>",
+    "MongoPass": "<MOGNO PASS>",
+
+    "everyoneMention": false,
+    "hostedBy": true
+}
